@@ -6,7 +6,7 @@ toplevel: "Getting Started: Advanced"
 
 ###Leveraging Stand Alone Modules
 
-Our flexible modules are dedicated to optimizing performance in specific areas based on your application's needs. By "stand alone", we mean that these Electrode modules are agnostic of one another; use one or all of them in any Node platform to enhance your application's capabilities. Use our guides and examples below to plug them in:
+Our flexible modules are dedicated to optimizing performance in specific areas based on your application's needs. By "stand alone", we mean that you can use one or all of these Electrode modules in any Node platform to enhance your application's capabilities. Use our guides and examples below to plug them in:
 
 *  [Confippet](confippet.html) is a versatile, flexible utility for managing configurations of Node.js applications.
 
